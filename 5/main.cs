@@ -1,4 +1,4 @@
-﻿// ====== завдання з L03.2C#_t рябова максима НОМЕР 5 ======
+﻿// ====== завдання з L03.2C#_t рябова максима  ======
 
 using System;
 using System.Diagnostics.Eventing.Reader;

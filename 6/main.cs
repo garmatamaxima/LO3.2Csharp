@@ -1,4 +1,6 @@
-﻿using System;
+﻿// ====== завдання з L03.2C#_t рябова максима  ======
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
